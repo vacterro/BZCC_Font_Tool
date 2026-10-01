@@ -1,6 +1,8 @@
 # *** THIS CONTENT IS AI GENERATED ***
 
-This is font program for battlezone combat commander. You can replace fonts in BZCC.
+# BZCC Font Tool
+
+**Windows font replacement utility for Battlezone: Combat Commander (BZCC), built to make swapping and testing in-game fonts straightforward.**
 <img width="1434" height="857" alt="clipboard_20260527_015207_06d3390e" src="https://github.com/user-attachments/assets/6218a89a-7773-4f12-8350-a8ddb06a0043" />
 
 <!-- VACTERRO_PROJECT_BRIDGE:BEGIN
